@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_perfil"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:civ_border_color="@color/cardview_light_background"
+        app:civ_border_width="2dp" />
+
+    <TextView
+        android:id="@+id/txt_usuario1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|top"
+        android:fontFamily="@font/comfortaa_bold"
+        android:textStyle="bold"
+        tools:text="Puntajes" />
+
+    <TextView
+        android:id="@+id/txt_puntaje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_horizontal|left|center_vertical"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/comfortaa_bold"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        tools:text="Puntajes" />
+
+    <TextView
+        android:id="@+id/txt_fecha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_horizontal|left|center_vertical"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/comfortaa_bold"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        tools:text="Puntajes" />
+
+    <TextView
+        android:id="@+id/txt_pistas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_horizontal|left|center_vertical"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/comfortaa_bold"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        tools:text="Puntajes" />
+
+</LinearLayout>

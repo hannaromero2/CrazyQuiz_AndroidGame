@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Activity_options"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background9"
+    tools:context=".OptionsActivity">
+
+    <CheckBox
+        android:id="@+id/checkBox_todos"
+        android:layout_width="108dp"
+        android:layout_height="39dp"
+        android:button="?android:attr/listChoiceIndicatorMultiple"
+        android:buttonTint="@android:color/background_light"
+        android:fontFamily="@font/baloo_bhaina"
+        android:scrollbarThumbHorizontal="@android:color/background_light"
+        android:text="Todos"
+        android:textColor="@android:color/background_light"
+        android:textColorHint="@android:color/background_light"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.069"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_temas"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <CheckBox
+        android:id="@+id/checkBox_hp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:button="?android:attr/listChoiceIndicatorMultiple"
+        android:buttonTint="@android:color/background_light"
+        android:fontFamily="@font/baloo_bhaina"
+        android:scrollbarThumbHorizontal="@android:color/background_light"
+        android:text="Harry Potter"
+        android:textColor="@android:color/background_light"
+        android:textColorHint="@android:color/background_light"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.074"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_todos" />
+
+    <CheckBox
+        android:id="@+id/checkBox_culturageneral"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:button="?android:attr/listChoiceIndicatorMultiple"
+        android:buttonTint="@android:color/background_light"
+        android:fontFamily="@font/baloo_bhaina"
+        android:scrollbarThumbHorizontal="@android:color/background_light"
+        android:text="Cultura General"
+        android:textColor="@android:color/background_light"
+        android:textColorHint="@android:color/background_light"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.078"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_gatosyreptiles" />
+
+    <CheckBox
+        android:id="@+id/checkBox_gatosyreptiles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:button="?android:attr/listChoiceIndicatorMultiple"
+        android:buttonTint="@android:color/background_light"
+        android:fontFamily="@font/baloo_bhaina"
+        android:scrollbarThumbHorizontal="@android:color/background_light"
+        android:text="Cats and reptiles"
+        android:textColor="@android:color/background_light"
+        android:textColorHint="@android:color/background_light"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.074"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_hp" />
+
+    <CheckBox
+        android:id="@+id/checkBox_arteygeografia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:button="?android:attr/listChoiceIndicatorMultiple"
+        android:buttonTint="@android:color/background_light"
+        android:fontFamily="@font/baloo_bhaina"
+        android:scrollbarThumbHorizontal="@android:color/background_light"
+        android:text="Arte y Geografia"
+        android:textColor="@android:color/background_light"
+        android:textColorHint="@android:color/background_light"
+        android:textColorLink="@android:color/background_light"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/spinner"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.069"
+        app:layout_constraintStart_toEndOf="@+id/checkBox_culturageneral"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_terror"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <CheckBox
+        android:id="@+id/checkBox_comida"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:button="?android:attr/listChoiceIndicatorMultiple"
+        android:buttonTint="@android:color/background_light"
+        android:fontFamily="@font/baloo_bhaina"
+        android:scrollbarThumbHorizontal="@android:color/background_light"
+        android:text="Food"
+        android:textColor="@android:color/background_light"
+        android:textColorHint="@android:color/background_light"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.1"
+        app:layout_constraintStart_toEndOf="@+id/checkBox_hp"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_todos" />
+
+    <CheckBox
+        android:id="@+id/checkBox_terror"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:button="?android:attr/listChoiceIndicatorMultiple"
+        android:buttonTint="@android:color/background_light"
+        android:fontFamily="@font/baloo_bhaina"
+        android:scrollbarThumbHorizontal="@android:color/background_light"
+        android:text="Terror"
+        android:textColor="@android:color/background_light"
+        android:textColorHint="@android:color/background_light"
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.341"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_comida" />
+
+    <Spinner
+        android:id="@+id/spinner_numpreguntas"
+        android:layout_width="85dp"
+        android:layout_height="29dp"
+        android:layout_marginEnd="32dp"
+        android:scrollbarThumbHorizontal="@android:color/holo_purple"
+        android:scrollbarThumbVertical="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/textView_numpreguntas"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_todos"
+        app:layout_constraintVertical_bias="0.495" />
+
+    <Spinner
+        android:id="@+id/spinner_pistas"
+        android:layout_width="91dp"
+        android:layout_height="26dp"
+        android:layout_marginBottom="24dp"
+        android:scrollbarThumbHorizontal="@android:color/holo_purple"
+        android:scrollbarThumbVertical="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.945"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/switch_pistas"
+        app:layout_constraintVertical_bias="0.194" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="122dp"
+        android:layout_height="104dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.075"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <RadioButton
+            android:id="@+id/radioButton_alta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/baloo_bhaina"
+            android:text="@string/radioButton_alta"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp" />
+
+        <RadioButton
+            android:id="@+id/radioButton_media"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/baloo_bhaina"
+            android:text="@string/radioButton_media"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp" />
+
+        <RadioButton
+            android:id="@+id/radioButton_baja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/baloo_bhaina"
+            android:text="@string/radioButton_baja"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp" />
+    </RadioGroup>
+
+    <Switch
+        android:id="@+id/switch_pistas"
+        android:layout_width="183dp"
+        android:layout_height="26dp"
+        android:layout_marginBottom="224dp"
+        android:fontFamily="@font/baloo_bhaina"
+        android:text="Habilitar Pistas"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.824"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner"
+        app:layout_constraintVertical_bias="0.154" />
+
+    <TextView
+        android:id="@+id/textView_temas"
+        android:layout_width="118dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/baloo_bhaina"
+        android:text="Temas"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.499"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView_numpreguntas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="384dp"
+        android:fontFamily="@font/baloo_bhaina"
+        android:text="Número de Preguntas"
+        android:textColor="@android:color/background_light"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toTopOf="@+id/radioGroup"
+        app:layout_constraintEnd_toStartOf="@+id/spinner"
+        app:layout_constraintHorizontal_bias="0.396"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_culturageneral"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView_dificultad"
+        android:layout_width="81dp"
+        android:layout_height="33dp"
+        android:layout_marginStart="56dp"
+        android:fontFamily="@font/baloo_bhaina"
+        android:text="Dificultad"
+        android:textColor="@android:color/background_light"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/radioGroup"
+        app:layout_constraintEnd_toStartOf="@+id/spinner"
+        app:layout_constraintHorizontal_bias="0.15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox_culturageneral"
+        app:layout_constraintVertical_bias="1.0"
+        tools:ignore="UnknownId" />
+
+    <TextView
+        android:id="@+id/textView_numpistas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo_bhaina"
+        android:text="Número de Pistas"
+        android:textColor="@android:color/background_light"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/spinner_pistas"
+        app:layout_constraintHorizontal_bias="0.933"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/switch_pistas"
+        app:layout_constraintVertical_bias="0.158" />
+
+    <Button
+        android:id="@+id/button_return"
+        android:layout_width="83dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="88dp"
+        android:background="@drawable/custom_button"
+        android:fontFamily="@font/baloo_bhaina"
+        android:text="Return"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/button_apply"
+        app:layout_constraintTop_toBottomOf="@+id/spinner_pistas"
+        app:layout_constraintVertical_bias="0.701" />
+
+    <Button
+        android:id="@+id/button_apply"
+        android:layout_width="83dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/custom_button"
+        android:fontFamily="@font/baloo_bhaina"
+        android:text="Apply"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.64"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_numpistas"
+        app:layout_constraintVertical_bias="0.701" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

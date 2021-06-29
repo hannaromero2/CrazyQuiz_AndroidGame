@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575173902800",
+    "project_id": "memoria-d9642",
+    "storage_bucket": "memoria-d9642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575173902800:android:53d5434280429df94bf9d5",
+        "android_client_info": {
+          "package_name": "com.example.crazyquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575173902800-gfd84v89ufqomq54dkfkpa9ch11d1ajc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcOxTeHdnZexgzC954efbAAyEMAUGF8HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575173902800-gfd84v89ufqomq54dkfkpa9ch11d1ajc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

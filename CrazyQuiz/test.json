@@ -1,0 +1,99 @@
+{
+    "tablero": {
+        "jugador1": {
+            "correo": "",
+            "nombre": ""
+        },
+        "jugador2": {
+            "correo": "",
+            "nombre": ""
+        },
+        "turno": 1,
+        "puntos1": 0,
+        "puntos2": 0,
+        "estatus": 0,
+        "fecha": "2021-01-14 12:00:00",
+        "casilla1": {
+            "imagen": "hola",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla2": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla3": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla4": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla5": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla6": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla7": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla8": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla9": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla10": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla11": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla12": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla13": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla14": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla15": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "casilla16": {
+            "imagen": "",
+            "estatus": 0,
+            "puntoPara": 0
+        },
+        "espera": [
+        ]
+    }
+}

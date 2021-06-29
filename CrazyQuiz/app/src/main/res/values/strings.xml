@@ -1,0 +1,478 @@
+<resources>
+    <string name="app_name">Crazy Quiz</string>
+
+
+    // HP
+    ------------------------------------------------------------------------------------------------
+
+    <string name="question_text_1">¿En que año se estreno HP y la piedra filosofal?</string>
+    <string name="p1_respuesta_1"> 2001 </string>
+    //correcta
+    <string name="p1_respuesta_2"> 2003 </string>
+    <string name="p1_respuesta_3"> 2000 </string>
+    <string name="p1_respuesta_4"> 2002 </string>
+
+    <string name="question_text_2">¿Como se llama el actor que interpresa al personaje de HP?</string>
+    <string name="p2_respuesta_1"> Daniel Radcliffe </string>
+    //correcta
+    <string name="p2_respuesta_2"> Daniel Radclif </string>
+    <string name="p2_respuesta_3"> Draco Malfoy </string>
+    <string name="p2_respuesta_4"> Rupert Grint </string>
+
+    <string name="question_text_3">¿Como se llama el director de Hogwarts?</string>
+    <string name="p3_respuesta_1"> Albus Dumbledore </string>
+    //correcta
+    <string name="p3_respuesta_2"> Salazar Slyterin </string>
+    <string name="p3_respuesta_3"> Godric Gryfindor </string>
+    <string name="p3_respuesta_4"> Severus Snape </string>
+
+    <string name="question_text_4">¿Como se llama la profesora que se convierte en gato?</string>
+    <string name="p4_respuesta_1"> Minerva McGonagall </string>
+    //correcta
+    <string name="p4_respuesta_2"> Wilhelmina Grubbly-Plank </string>
+    <string name="p4_respuesta_3"> Aurora Sinistra </string>
+    <string name="p4_respuesta_4"> Dolores Umbridge </string>
+
+
+    <string name="question_text_5">¿Como se llaman los 3 amigos de Harry Potter?</string>
+    <string name="p5_respuesta_1"> Ron, Hermione y Dobby </string>
+    //correcta
+    <string name="p5_respuesta_2"> Fred, George y Dumbledore </string>
+    <string name="p5_respuesta_3"> Voldemort, MAcGonagall y Malfoy </string>
+    <string name="p5_respuesta_4"> Hagrid, Luna y Neville </string>
+
+    <string name="question_text_6">¿Como se llama la lechuza de Harry?</string>
+    <string name="p6_respuesta_1"> Hedwig </string>
+    //correcta
+    <string name="p6_respuesta_2"> Dobby </string>
+    <string name="p6_respuesta_3"> Ron </string>
+    <string name="p6_respuesta_4"> Draco</string>
+
+    <string name="question_text_7">¿Como se llama el mejor amigo de Harry?</string>
+    <string name="p7_respuesta_1"> Hagrid </string>
+    //correcta
+    <string name="p7_respuesta_2"> Ron </string>
+    <string name="p7_respuesta_3"> Hedwig </string>
+    <string name="p7_respuesta_4"> Draco</string>
+
+
+    <string name="question_text_8">¿Como se llama el enemigo principal de Harry Potter?</string>
+    <string name="p8_respuesta_1"> Voldemort </string>
+    //correcta
+    <string name="p8_respuesta_2"> Draco </string>
+    <string name="p8_respuesta_3"> Snape </string>
+    <string name="p8_respuesta_4"> Bellatrix</string>
+
+    <string name="question_text_9">¿Como se llama la novia de Harry Potter?</string>
+    <string name="p9_respuesta_1">  Ginni </string>
+    //correcta
+    <string name="p9_respuesta_2"> Hermione </string>
+    <string name="p9_respuesta_3"> Luna </string>
+    <string name="p9_respuesta_4"> Lily </string>
+
+    <string name="question_text_10">¿Como se llama el profesor que mas odia a harry?</string>
+    <string name="p10_respuesta_1"> Snape </string>
+    //correcta
+    <string name="p10_respuesta_2"> Lupin </string>
+    <string name="p10_respuesta_3"> McGonagall </string>
+    <string name="p10_respuesta_4"> Dumbledore </string>
+
+
+    //Sankes and Cats
+    --------------------------------------------------------------------------------
+
+
+    <string name="question_text_11">¿Cual es la raza de gatos egipcia?</string>
+    <string name="p11_respuesta_1"> Sphynx </string>
+    //correcta
+    <string name="p11_respuesta_2"> Egipto </string>
+    <string name="p11_respuesta_3"> Sin pelo </string>
+    <string name="p11_respuesta_4"> Pelonsin </string>
+
+    <string name="question_text_12">¿Como podemos saber si una coralillo es falsa o venenosa?</string>
+    <string name="p12_respuesta_1"> Patron de sus lineas</string>
+    //correcta
+    <string name="p12_respuesta_2"> Forma de la cabeza </string>
+    <string name="p12_respuesta_3"> Su color de ojos</string>
+    <string name="p12_respuesta_4"> La longitud de su cuerpo </string>
+
+
+    <string name="question_text_13">¿Cual es la serpiente constrictor mas grande del mundo?</string>
+    <string name="p13_respuesta_1"> Anaconda </string>
+    //correcta
+    <string name="p13_respuesta_2"> Cascabel </string>
+    <string name="p13_respuesta_3"> Boa Amarilla </string>
+    <string name="p13_respuesta_4"> Christian Cabral </string>
+
+
+    <string name="question_text_14">¿Cual es la serpiente mas grande del estado de Yucatan?</string>
+    <string name="p14_respuesta_1"> Boa Constrictor </string>
+    //correcta
+    <string name="p14_respuesta_2"> Christian Cabral </string>
+    <string name="p14_respuesta_3"> Boa Amarilla </string>
+    <string name="p14_respuesta_4"> Coralillo </string>
+
+    <string name="question_text_15">¿Los gatos negros deberian ser usados para?</string>
+    <string name="p15_respuesta_1"> Amar </string>
+    //correcta
+    <string name="p15_respuesta_2"> Sacrificios </string>
+    <string name="p15_respuesta_3"> Mala suerte </string>
+    <string name="p15_respuesta_4"> Asustar a Christian </string>
+
+
+    <string name="question_text_16">¿En que habitad viven los cocodrilos?</string>
+    <string name="p16_respuesta_1"> Manglares </string>
+    //correcta
+    <string name="p16_respuesta_2"> Pantanos con el shrek </string>
+    <string name="p16_respuesta_3"> Lagos </string>
+    <string name="p16_respuesta_4"> Rios </string>
+
+
+    <string name="question_text_17">¿Las serpientes que comen ratones se les dice?</string>
+    <string name="p17_respuesta_1"> Ratoneras </string>
+    //correcta
+    <string name="p17_respuesta_2"> Come ratones </string>
+    <string name="p17_respuesta_3"> Ratoncitas </string>
+    <string name="p17_respuesta_4"> Rateras </string>
+
+
+    <string name="question_text_18">¿Como se llama la especie de gato que es color gris?</string>
+    <string name="p18_respuesta_1"> Russian Blue </string>
+    //correcta
+    <string name="p18_respuesta_2"> Grey Cat </string>
+    <string name="p18_respuesta_3"> No existe </string>
+    <string name="p18_respuesta_4"> Ninguna de las anteriores </string>
+
+
+    <string name="question_text_19">¿Como se llama la especie de gato que tiene color cafe y crema?</string>
+    <string name="p19_respuesta_1"> Siames </string>
+    //correcta
+    <string name="p19_respuesta_2"> Gatos normales </string>
+    <string name="p19_respuesta_3"> White Brown Cat </string>
+    <string name="p19_respuesta_4"> Ninguna de las anteriores </string>
+
+
+    <string name="question_text_20">¿Como se llama el reptil mas grande del mundo?</string>
+    <string name="p20_respuesta_1"> Cocodrilo de agua salada </string>
+    //correcta
+    <string name="p20_respuesta_2"> Lagarto cola en espiga </string>
+    <string name="p20_respuesta_3"> Boa Amarilla</string>
+    <string name="p20_respuesta_4"> Piton </string>
+
+
+    // Cultura General
+    -------------------------------------------------------------------------------
+    <string name="question_text_21">¿Cual es el principe del pop?</string>
+    <string name="p21_respuesta_1"> Michael Jackson </string>
+    //correcta
+    <string name="p21_respuesta_2"> Justin Bieber </string>
+    <string name="p21_respuesta_3"> Adan Levine </string>
+    <string name="p21_respuesta_4"> Justin Timberlake </string>
+
+    <string name="question_text_22">¿En que pelicula sale Han Solo?</string>
+    <string name="p22_respuesta_1"> Star Wars </string>
+    //correcta
+    <string name="p22_respuesta_2"> The Walking dead </string>
+    <string name="p22_respuesta_3"> Harry Potter</string>
+    <string name="p22_respuesta_4"> El señor de los anillos </string>
+
+
+    <string name="question_text_23">¿De que pais es shakira?</string>
+    <string name="p23_respuesta_1"> Colombia </string>
+    //correcta
+    <string name="p23_respuesta_2"> Brasil </string>
+    <string name="p23_respuesta_3"> Perú </string>
+    <string name="p23_respuesta_4"> México </string>
+
+
+    <string name="question_text_24">¿De que pais es nativa la familia de Hitler?</string>
+    <string name="p24_respuesta_1"> Alemania </string>
+    //correcta
+    <string name="p24_respuesta_2"> Brasil </string>
+    <string name="p24_respuesta_3"> Perú </string>
+    <string name="p24_respuesta_4"> México </string>
+
+
+    <string name="question_text_25">¿Como se llama el expresidente de color de EUA?</string>
+    <string name="p25_respuesta_1"> Obama </string>
+    //correcta
+    <string name="p25_respuesta_2"> Trump </string>
+    <string name="p25_respuesta_3"> AMLO </string>
+    <string name="p25_respuesta_4"> George Bush </string>
+
+    <string name="question_text_26">¿Como se llama el primer ministro actual de canada?</string>
+    <string name="p26_respuesta_1"> Justin Trudeau </string>
+    //correcta
+    <string name="p26_respuesta_2"> Trump </string>
+    <string name="p26_respuesta_3"> AMLO </string>
+    <string name="p26_respuesta_4"> Reina Isabel II </string>
+
+    <string name="question_text_27">¿Como se llama la reina de inglaterra?</string>
+    <string name="p27_respuesta_1"> Reina Isabell II </string>
+    //correcta
+    <string name="p27_respuesta_2"> Sofia </string>
+    <string name="p27_respuesta_3"> AMLO </string>
+    <string name="p27_respuesta_4"> Kate Middelton </string>
+
+    <string name="question_text_28">¿Como se llama la cantante de Poker Face?</string>
+    <string name="p28_respuesta_1"> Lady Gaga </string>
+    //correcta
+    <string name="p28_respuesta_2"> Ariana Grande </string>
+    <string name="p28_respuesta_3"> Shakira </string>
+    <string name="p28_respuesta_4"> Kate Middelton </string>
+
+    <string name="question_text_29">¿Como se llama el animal emblematico de peru?</string>
+    <string name="p29_respuesta_1"> Llama </string>
+    //correcta
+    <string name="p29_respuesta_2"> Tigre </string>
+    <string name="p29_respuesta_3"> Perro </string>
+    <string name="p29_respuesta_4"> Lobo </string>
+
+    <string name="question_text_30">¿Cual es el sitio arqueologico mas visitado de todo mexico?</string>
+    <string name="p30_respuesta_1"> Chichen Itza</string>
+    //correcta
+    <string name="p30_respuesta_2"> Tulum </string>
+    <string name="p30_respuesta_3"> Technotitlan</string>
+    <string name="p30_respuesta_4"> La venta </string>
+
+
+    //FOOD
+    ---------------------------------------------------------------------------------------------
+
+    <string name="question_text_31">¿Cual es un platillo de Yucatan?</string>
+    <string name="p31_respuesta_1"> Relleno Negro </string>
+    <string name="p31_respuesta_2">Pozole</string>
+    <string name="p31_respuesta_3"> Chiles Rellenos </string>
+    <string name="p31_respuesta_4">Barbacoa</string>
+
+    <string name="question_text_32">¿De que estado es el Pozole?</string>
+    <string name="p32_respuesta_1">Jalisco</string>
+    <string name="p32_respuesta_2">Chiapas</string>
+    <string name="p32_respuesta_3">Veracruz</string>
+    <string name="p32_respuesta_4">Cd. de Mexico</string>
+
+    <string name="question_text_33">¿De que estado es la cochinita?</string>
+    <string name="p33_respuesta_1">Yucatan</string>
+    //Correcta
+    <string name="p33_respuesta_2">Tabasco</string>
+    <string name="p33_respuesta_3">Jalisco</string>
+    <string name="p33_respuesta_4">Cd. de Mexico</string>
+
+    <string name="question_text_34">¿De que pais es la pizza y la pasta?</string>
+    <string name="p34_respuesta_1"> Italia </string>
+    //correcta
+    <string name="p34_respuesta_2"> Francia </string>
+    <string name="p34_respuesta_3"> Mexico </string>
+    <string name="p34_respuesta_4"> Ukrania </string>
+
+    <string name="question_text_35">¿De que pais son originarios los tacos en trompo?</string>
+    <string name="p35_respuesta_1"> Libano </string>
+    //correcta
+    <string name="p35_respuesta_2"> Mexico </string>
+    <string name="p35_respuesta_3"> Australia </string>
+    <string name="p35_respuesta_4"> Brazil </string>
+
+    <string name="question_text_36">¿Es un platillo Japones?</string>
+    <string name="p36_respuesta_1"> Yakimeshi </string>
+    //correcta
+    <string name="p36_respuesta_2"> Teriyaki </string>
+    <string name="p36_respuesta_3"> Chow Mein </string>
+    <string name="p36_respuesta_4"> Pollo Agridulce </string>
+
+    <string name="question_text_37">¿Es un platillo Chino?</string>
+    <string name="p37_respuesta_1"> Chow Mein </string>
+    //correcta
+    <string name="p37_respuesta_2"> Sushi </string>
+    <string name="p37_respuesta_3"> Ramen </string>
+    <string name="p37_respuesta_4"> Yakimeshi </string>
+
+    <string name="question_text_38">¿Es un platillo Español?</string>
+    <string name="p38_respuesta_1"> Paella </string>
+    //correcta
+    <string name="p38_respuesta_2"> Caldo de Pollo </string>
+    <string name="p38_respuesta_3"> Toritos </string>
+    <string name="p38_respuesta_4"> Ceviche </string>
+
+    <string name="question_text_39">¿De que estado es la barbacoa?</string>
+    <string name="p39_respuesta_1"> Hidalgo </string>
+    //correcta
+    <string name="p39_respuesta_2"> Durango </string>
+    <string name="p39_respuesta_3"> Cd. de Mexico </string>
+    <string name="p39_respuesta_4"> Tamaulipas </string>
+
+    <string name="question_text_40">¿De donde es originario el pate de pato?</string>
+    <string name="p40_respuesta_1"> Francia </string>
+    //correcta
+    <string name="p40_respuesta_2"> Mexico </string>
+    <string name="p40_respuesta_3"> Australia </string>
+    <string name="p40_respuesta_4"> Brazil </string>
+
+    //Terror
+    -----------------------------------------------------------------------------------------
+
+    <string name="question_text_41">¿Cual es el autor de IT?</string>
+    <string name="p41_respuesta_1"> Stephen King </string>
+    //correcta
+    <string name="p41_respuesta_2"> Stephani Mayer </string>
+    <string name="p41_respuesta_3"> Paulo Cohello </string>
+    <string name="p41_respuesta_4"> Miguel Cervantes </string>
+
+    <string name="question_text_42">¿Como se llama la pelicula de Michaell Mayers?</string>
+    <string name="p42_respuesta_1"> Halloween </string>
+    //correcta
+    <string name="p42_respuesta_2"> Pesadilla en la calle del infierno </string>
+    <string name="p42_respuesta_3"> El Exorcista </string>
+    <string name="p42_respuesta_4"> La Cabaña </string>
+
+    <string name="question_text_43">¿De que pelicula es Freddie Krugger?</string>
+    <string name="p43_respuesta_1"> Pesadilla en la calle ELM </string>
+    //correcta
+    <string name="p43_respuesta_2"> Halloween </string>
+    <string name="p43_respuesta_3"> El Aro </string>
+    <string name="p43_respuesta_4"> Chuky </string>
+
+    <string name="question_text_44">¿De que pais es originaria la llorona?</string>
+    <string name="p44_respuesta_1"> Mexico </string>
+    //correcta
+    <string name="p44_respuesta_2"> Uruguay </string>
+    <string name="p44_respuesta_3"> Venezuela </string>
+    <string name="p44_respuesta_4"> Salvador </string>
+
+    <string name="question_text_45">¿De que estado son originarios los aluxes?</string>
+    <string name="p45_respuesta_1"> Yucatán </string>
+    //correcta
+    <string name="p45_respuesta_2"> Chiapas </string>
+    <string name="p45_respuesta_3"> Veracruz </string>
+    <string name="p45_respuesta_4"> Tabasco </string>
+
+    <string name="question_text_46">¿De donde es el ritual Hitori Kakurendo?</string>
+    <string name="p46_respuesta_1"> Japon </string>
+    //correcta
+    <string name="p46_respuesta_2"> China </string>
+    <string name="p46_respuesta_3"> Philipinas </string>
+    <string name="p46_respuesta_4"> India </string>
+
+    <string name="question_text_47">¿Cual es el ojeto mas maldito del museo de los Warren?</string>
+    <string name="p47_respuesta_1"> Una Muñeca </string>
+    //correcta
+    <string name="p47_respuesta_2"> Un Espejo </string>
+    <string name="p47_respuesta_3"> Un Llavero </string>
+    <string name="p47_respuesta_4"> Una Armadura </string>
+
+    <string name="question_text_48">¿Como se llama el muñeno en el que se inspiro Choky?</string>
+    <string name="p48_respuesta_1"> Robert </string>
+    //correcta
+    <string name="p48_respuesta_2"> Choky </string>
+    <string name="p48_respuesta_3"> Jorge </string>
+    <string name="p48_respuesta_4"> Angel </string>
+
+    <string name="question_text_49">¿En donde se encuentran las catapultas mas grandes del mundo?</string>
+    <string name="p49_respuesta_1"> Francia </string>
+    //correcta
+    <string name="p49_respuesta_2"> Mexico </string>
+    <string name="p49_respuesta_3"> Republica Checa </string>
+    <string name="p49_respuesta_4"> Medio Oriente </string>
+
+    <string name="question_text_50">¿Como se llama la mansion embrujada mas grande del mundo?</string>
+    <string name="p50_respuesta_1"> Winchester </string>
+    //correcta
+    <string name="p50_respuesta_2"> Amytiville </string>
+    <string name="p50_respuesta_3"> Warren </string>
+    <string name="p50_respuesta_4"> St.Asylum </string>
+
+    // Arte y Geografia
+    ------------------------------------------------------------------------------
+
+    <string name="question_text_51">¿En que continente queda Marruecos?</string>
+    <string name="p51_respuesta_1"> Africa </string>
+    //correcta
+    <string name="p51_respuesta_2"> Oceania </string>
+    <string name="p51_respuesta_3"> Sudamerica </string>
+    <string name="p51_respuesta_4"> Asia </string>
+
+    <string name="question_text_52">¿Como se llama el continente donde esta australia?</string>
+    <string name="p52_respuesta_1"> Oceania </string>
+    //correcta
+    <string name="p52_respuesta_2"> Europa </string>
+    <string name="p52_respuesta_3"> Asia </string>
+    <string name="p52_respuesta_4"> Africa </string>
+
+    <string name="question_text_53">¿Quien pinto la MonaLisa?</string>
+    <string name="p53_respuesta_1"> Leonardo DaVinci </string>
+    //correcta
+    <string name="p53_respuesta_2"> Leonardo Dicaprio </string>
+    <string name="p53_respuesta_3"> Leonardo Gallejos </string>
+    <string name="p53_respuesta_4"> Leonardo Favio </string>
+
+    <string name="question_text_54">¿De que pais es el dia de ST.Patricks Day?</string>
+    <string name="p54_respuesta_1"> Irlanda </string>
+    //correcta
+    <string name="p54_respuesta_2"> Nueva Zelanda </string>
+    <string name="p54_respuesta_3"> España </string>
+    <string name="p54_respuesta_4"> Austria </string>
+
+    <string name="question_text_55">¿En que pais se encuentra Alaska?</string>
+    <string name="p55_respuesta_1"> Canada </string>
+    //correcta
+    <string name="p55_respuesta_2"> Estados Unidos </string>
+    <string name="p55_respuesta_3"> Inglaterra </string>
+    <string name="p55_respuesta_4"> Australia </string>
+
+    <string name="question_text_56">¿En que pais se encuentra la torre Eiffel?</string>
+    <string name="p56_respuesta_1"> Francia </string>
+    //correcta
+    <string name="p56_respuesta_2"> Reino Unido </string>
+    <string name="p56_respuesta_3"> España </string>
+    <string name="p56_respuesta_4"> Austria </string>
+
+    <string name="question_text_57">¿En que contienente se encuentra Rusia?</string>
+    <string name="p57_respuesta_1"> Asia y Europa</string>
+    //correcta
+    <string name="p57_respuesta_2"> Europa y Oceania </string>
+    <string name="p57_respuesta_3"> Asia y Medio Oriente </string>
+    <string name="p57_respuesta_4"> Africa y Europa </string>
+
+    <string name="question_text_58">¿En que pais se encuentra Macao?</string>
+    <string name="p58_respuesta_1"> China </string>
+    //correcta
+    <string name="p58_respuesta_2"> Hong Kong </string>
+    <string name="p58_respuesta_3"> Japon </string>
+    <string name="p58_respuesta_4"> India </string>
+
+    <string name="question_text_59">¿A que pais pertenece Hawaii?</string>
+    <string name="p59_respuesta_1"> EUA. </string>
+    //correcta
+    <string name="p59_respuesta_2"> Canada </string>
+    <string name="p59_respuesta_3"> Reino Unido </string>
+    <string name="p59_respuesta_4"> Argentina </string>
+
+    <string name="question_text_60">¿En que pais se habla el idioma Catalan?</string>
+    <string name="p60_respuesta_1"> España </string>
+    //correcta
+    <string name="p60_respuesta_2"> Nueva Zelanda </string>
+    <string name="p60_respuesta_3"> Australia </string>
+    <string name="p60_respuesta_4"> Netherlands </string>
+    <string name="radioButton_alta">Alta</string>
+    <string name="radioButton_media">Media</string>
+    <string name="radioButton_baja">Baja</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_perfil_detail">PerfilDetail</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
